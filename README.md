@@ -1,2 +1,2 @@
 # git_test
-first exercise
+this is my first exercise
